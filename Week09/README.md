@@ -10,3 +10,5 @@ lightgbm 原始数据，调参后accuracy_score：0.91854
   3. continuous_installment * 12 / continuous_annual_inc
 
 不删除特征的情况下，调参后accuracy_score：0.92284，有明显提升
+
+组合删除两组特征并增加三个衍生变量，调参后accuracy_score：0.92302
