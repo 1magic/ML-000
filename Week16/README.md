@@ -14,6 +14,8 @@
    test_n5['rate_inst_inc'] = test_n5['continuous_installment']*12 / test_n5['continuous_annual_inc']
    
    ```
-   
+**增加和删除变量均获得了提升**
+
+
 stacking集成，采用lightgbm、xgboost、rf分别获取其最佳参数，并对结果进行加权平均输出。
     
